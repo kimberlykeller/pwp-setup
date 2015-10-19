@@ -14,6 +14,8 @@
 		<br>
 		Move Excellently. Breathe Deeply.
 		<br>
+		Find a place to put a give back or donation section to increase Mental Health Awareness and donate to sucicide prevention
+		<br>
 		Navigation - Home Services Schedule Contact About</p>
 		Footer - testimonials blog
 		<br>

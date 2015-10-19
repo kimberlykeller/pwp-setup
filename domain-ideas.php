@@ -24,6 +24,8 @@
 			<li>Catalyst Wellnesss</li>
 			<li>Catnap Fitness</li>
 			<li>Catlike Movement</li>
+			<li>Lotus Cat Movement</li>
+			<li>Lotus Cat Fitness</li>
 		</ul>
 
 	</body>
