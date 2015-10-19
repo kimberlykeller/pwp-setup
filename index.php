@@ -24,5 +24,7 @@
 			<li>ICWA for Weightlifting Classes and Mobility</li>
 			<li>Acupuncturist?</li>
 		</ul>
+		<p><a href="domain-ideas.php">Domain name ideas</a></p>
+		<p><a href="personas.php">Personas</a></p>
 	</body>
 </html>

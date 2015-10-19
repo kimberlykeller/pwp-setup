@@ -19,6 +19,11 @@
 			<li>Agile</li>
 			<li>Graceful</li>
 			<li>Flow</li>
+			<li>Catalyst Fitness</li>
+			<li>Catalyst Movement</li>
+			<li>Catalyst Wellnesss</li>
+			<li>Catnap Fitness</li>
+			<li>Catlike Movement</li>
 		</ul>
 
 	</body>
