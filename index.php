@@ -12,11 +12,11 @@
 		<br>
 		Happiness through better movement. Learn to breath. Learn to move.
 		<br>
-		Move Excellently. Breathe Deeply.
+		Move Excellently. Breathe Deeply. Move excellently (nimbly?) breathe deeply lift heavy
 		<br>
 		Find a place to put a give back or donation section to increase Mental Health Awareness and donate to sucicide prevention
 		<br>
-		Navigation - Home Services Schedule Contact About</p>
+		Navigation - Home Services Schedule Contact About Give Back</p>
 		Footer - testimonials blog
 		<br>
 		Find a place to put recommendations
