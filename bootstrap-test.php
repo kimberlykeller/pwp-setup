@@ -16,6 +16,8 @@
 		//// <link type="text/css" href="css/style.css" rel="stylesheet"/>
 		///////////////////////////////////////////////////// -->
 
+		<link type="text/css" href="stylesheet.css" rel="stylesheet"/>
+
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -41,4 +43,4 @@
 			<h1>Hello, world! I'm a Bootstrap page! :D</h1>
 		</div>
 	</body>
-</html>added b
+</html>
