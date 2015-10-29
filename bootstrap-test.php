@@ -39,8 +39,12 @@
 		<title>Bootstrap 101 Template (DDC Version!)</title>
 	</head>
 	<body>
-		<div class="container">
+		<div class="header">
 			<h1>Hello, world! I'm a Bootstrap page! :D</h1>
 		</div>
+		<main class="container">
+			<p>Look at this fabulous bootstrap page! Hooray for CSS!</p>
+
+		</main>
 	</body>
 </html>
