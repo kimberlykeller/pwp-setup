@@ -40,11 +40,21 @@
 	</head>
 	<body>
 		<div class="header">
-			<h1>Hello, world! I'm a Bootstrap page! :D</h1>
+			<h1>LOTUS CAT</h1>
+			<h5>move well. breathe deep. lift heavy.</h5>
 		</div>
-		<main class="container">
+		<div class="container">
 			<p>Look at this fabulous bootstrap page! Hooray for CSS!</p>
+		<div class="row">
+			<div class="col-md-6">Hello! </div>
+			<div class="col-md-6">Second column</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">second hello</div>
+			<div class="col-md-4">third hello</div>
+			<div class="col-md-4">fourth hello</div>
+		</div>
 
-		</main>
+		</div>
 	</body>
 </html>

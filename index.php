@@ -17,7 +17,7 @@
 		Find a place to put a give back or donation section to increase Mental Health Awareness and donate to sucicide prevention
 		<br>
 		Navigation - Home Services Schedule Contact About Give Back</p>
-		Footer - testimonials blog
+		Footer - testimonials blog recommended resources
 		<br>
 		Find a place to put recommendations
 		<ul>
