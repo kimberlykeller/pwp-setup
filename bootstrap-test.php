@@ -40,29 +40,43 @@
 		<title>Bootstrap 101 Template (DDC Version!)</title>
 	</head>
 	<body>
-			<nav class="navbar navbar-inverse">
-				<!-- logo and mobile toggle button get grouped together for better mobile display -->
-				<div class="navbar-header">
-					<!-- this is the mobile menu button -->
-					<h1 class="animated fadeInDown">LOTUS CAT</h1>
-					<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
-						<span class="sr-only">main menu</span>
-						<span class="glyphicon glyphicon-menu-hamburger"></span>
-					</button>
+		<header>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6"></div>
+						<h1 class="animated fadeInDown">LOTUS CAT</h1>
+					</div>
+					<div class="col-md-6">
+						<nav class="navbar pull-right">
+							<li>LINK</li>
+							<li>LINK</li>
+							<li>LINK</li>
+						</nav>
+					</div>
 				</div>
+			</div>
 
-				<!-- here are your main nav links, grouped for toggling -->
-				<div class="collapse navbar-collapse" id="main-menu">
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Link1</a></li>
-						<li><a href="#">Link2</a></li>
-						<li><a href="#">Link3</a></li>
-					</ul>
+		</header>
+		<main>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<img src="lotus.png" class="img-responsive"/>
 				</div>
-			</nav>
-
+				<div class="col-md-6">
+					<p class="animated fadeInDown"> Welcome! This is a place of healing and wellness. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						Phasellus dictum ipsum dolor, eu molestie massa vehicula at. Vestibulum lacinia est quis tellus laoreet tristique.
+						Mauris auctor, mauris luctus ultricies tincidunt, est arcu dapibus risus, sit amet vulputate lacus leo a dolor.
+						Sed convallis nibh quis massa mollis egestas eu nec ligula. Ut nec viverra nunc. Donec nec dui ut lectus suscipit accumsan ac id massa.
+						Duis tincidunt tempus libero, vel placerat leo. Quisque nec mi ut lacus cursus fermentum.
+						Sed egestas sem ut justo volutpat, ut dapibus ipsum ornare.
+					</p>
+				</div>
+			</div>
 		</div>
+		</main>
+
+
 		<div class="container">
 			<p>Look at this fabulous bootstrap page! Hooray for CSS!</p>
 		<div class="row">
