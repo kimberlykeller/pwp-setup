@@ -19,3 +19,7 @@ h1 {
 	padding: 20px;
 }
 
+.disappear {
+	display: none;
+}
+

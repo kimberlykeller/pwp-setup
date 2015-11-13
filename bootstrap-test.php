@@ -43,15 +43,8 @@
 		<header>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6"></div>
-						<h1 class="animated fadeInDown">LOTUS CAT</h1>
-					</div>
 					<div class="col-md-6">
-						<nav class="navbar pull-right">
-							<li>LINK</li>
-							<li>LINK</li>
-							<li>LINK</li>
-						</nav>
+						<h1 class="animated fadeInDown">LOTUS CAT</h1>
 					</div>
 				</div>
 			</div>
